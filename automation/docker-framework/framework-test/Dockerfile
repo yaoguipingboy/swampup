@@ -1,4 +1,4 @@
-FROM localhost:8081/docker_virtual/docker-framework:16
+FROM localhost:8081/docker_virtual/docker-framework:latest
 
 MAINTAINER hero
 
